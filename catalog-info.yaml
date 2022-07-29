@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-service-4
+  annotations:
+    github.com/project-slug: marqusm/backstage-test-service-4
+spec:
+  type: other
+  lifecycle: unknown
+  owner: core-team
